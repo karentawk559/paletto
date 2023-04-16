@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wooden Box - Pallet. Game Asset
+* source:	https://sketchfab.com/3d-models/wooden-box-pallet-game-asset-2a4411c6956f4adeb7877f03436bb742
+* author:	SergeiLb (https://sketchfab.com/sergei_8888)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wooden Box - Pallet. Game Asset" (https://sketchfab.com/3d-models/wooden-box-pallet-game-asset-2a4411c6956f4adeb7877f03436bb742) by SergeiLb (https://sketchfab.com/sergei_8888) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
